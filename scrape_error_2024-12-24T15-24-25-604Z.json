@@ -1,0 +1,8 @@
+{
+  "timestamp": "2024-12-24T15:24:25.603Z",
+  "url": "https://www.zomato.com/dubai/allo-beirut-al-safa/order",
+  "error": {
+    "message": "page.waitForTimeout is not a function",
+    "stack": "TypeError: page.waitForTimeout is not a function\n    at scrapeWebsite (/home/pyarakhar/testing/test.js:50:16)"
+  }
+}

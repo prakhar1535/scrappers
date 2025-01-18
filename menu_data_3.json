@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-01-16T04:24:25.471Z",
+  "url": "https://www.zomato.com/dubai/melenzane-1-al-safa/order",
+  "menu": [
+    {
+      "section": "Zuppa",
+      "items": []
+    },
+    {
+      "section": "Gardino",
+      "items": []
+    },
+    {
+      "section": "Appetizers",
+      "items": []
+    },
+    {
+      "section": "Piatti",
+      "items": []
+    },
+    {
+      "section": "Pizza",
+      "items": []
+    },
+    {
+      "section": "Pasta",
+      "items": []
+    },
+    {
+      "section": "Side Dish",
+      "items": []
+    },
+    {
+      "section": "Cicchetti",
+      "items": []
+    },
+    {
+      "section": "Focaccino",
+      "items": []
+    },
+    {
+      "section": "Risotto",
+      "items": []
+    },
+    {
+      "section": "Tune Up",
+      "items": []
+    },
+    {
+      "section": "Dolci",
+      "items": []
+    },
+    {
+      "section": "Drinkeria",
+      "items": []
+    }
+  ],
+  "stats": {
+    "totalItems": 0,
+    "vegItems": 0,
+    "nonVegItems": 0,
+    "itemsWithImages": 0
+  }
+}

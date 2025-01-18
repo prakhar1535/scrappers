@@ -1,0 +1,308 @@
+{
+  "total_reviews": 8,
+  "collection_date": "2024-12-25T07:36:33.484Z",
+  "reviews": [
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2NTQ2S3lRRRAB!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDv546KyQE%7CCgwI_qysuwYQyKCwyAE%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 11 heures",
+      "iso_date": "2024-12-24T20:15:58Z",
+      "iso_date_of_last_edit": "2024-12-24T20:15:58Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NTQ2S3lRRRAB",
+      "user": {
+        "name": "Abhishek Mishra",
+        "link": "https://www.google.com/maps/contrib/103195189169309185868?hl=fr",
+        "contributor_id": "103195189169309185868",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXijdGvNZaZ_jF0g8vxi6nR6TchFQjFLddYv7G8BW2cbt4C5sTBUA=s120-c-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 831
+      },
+      "details": {
+        "cuisine": 5,
+        "service": 5,
+        "ambiance": 5
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2bS11dmJBEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDvm-uvbA%7CCgsIv4iquwYQgNbNPg%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 21 heures",
+      "iso_date": "2024-12-24T09:51:59Z",
+      "iso_date_of_last_edit": "2024-12-24T09:51:59Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bS11dmJBEAE",
+      "user": {
+        "name": "Eslam Amer",
+        "link": "https://www.google.com/maps/contrib/109256559533956616907?hl=fr",
+        "contributor_id": "109256559533956616907",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVCqgWbuHqdLlSPGb59DXtoor_2alpuADq-nsh8ms-_6amn8D4=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "We received a great service and hospitality from one the friendly hosts their her Name is Rasha",
+      "extracted_snippet": {
+        "original": "We received a great service and hospitality from one the friendly hosts their her Name is Rasha",
+        "translated": "Nous avons reçu un excellent service et une excellente hospitalité de la part de l'un des hôtes sympathiques, son nom est Rasha."
+      },
+      "details": {
+        "service": 5,
+        "type_de_repas": "Déjeuner",
+        "prix_par_personne": "50–100 AED",
+        "cuisine": 5,
+        "ambiance": 5,
+        "plats_recommandés": "Allo Beirut"
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 14 heures",
+        "iso_date": "2024-12-24T16:35:13Z",
+        "iso_date_of_last_edit": "2024-12-24T16:35:13Z",
+        "snippet": "Sahten Eslam ;) glad to learn your experience was a positive one. Have a great day!",
+        "extracted_snippet": {
+          "original": "Sahten Eslam ;) glad to learn your experience was a positive one. Have a great day!",
+          "translated": "Sahten Eslam ;) heureux d'apprendre que votre expérience a été positive. Passe une bonne journée!"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2bTRpM0lnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDvm4i3Ig%7CCgsI1-apuwYQ-NHoPw%7C?hl=fr",
+      "rating": 3,
+      "date": "il y a 22 heures",
+      "iso_date": "2024-12-24T08:39:51Z",
+      "iso_date_of_last_edit": "2024-12-24T08:39:51Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipO7QrrAjxW_up1C0Fu8xGytgiu5SW6M6jRGHi94=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOUst4Ll4XICDqEWgpjULmYy-aRuxxOWB4KBvVc=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipPdZL5_HeqeWUEWTydPJncQftyMdwSxi_vcUt4O=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bTRpM0lnEAE",
+      "user": {
+        "name": "Wadhha Marketme",
+        "link": "https://www.google.com/maps/contrib/107866135509538168723?hl=fr",
+        "contributor_id": "107866135509538168723",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-O73Fcq9ubk_aYEiK9Vks_EGB9Y578UgoMlB2ssX0bbkUF3bo=s120-c-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 75,
+        "photos": 395
+      },
+      "snippet": "Decent experience with room for improvement. The atmosphere was quieter than expected, lacking the lively music I hoped for. The dish of the day wasn’t available, and there was an oversight with one order, although they promptly corrected the bill. Service was friendly, but the wait time for each order was longer than anticipated. A mixed experience, with potential to be great!",
+      "extracted_snippet": {
+        "original": "Decent experience with room for improvement. The atmosphere was quieter than expected, lacking the lively music I hoped for. The dish of the day wasn’t available, and there was an oversight with one order, although they promptly corrected the bill. Service was friendly, but the wait time for each order was longer than anticipated. A mixed experience, with potential to be great!",
+        "translated": "Expérience décente avec marge d'amélioration. L’atmosphère était plus calme que prévu, sans la musique entraînante que j’espérais. Le plat du jour n’était pas disponible et il y a eu un oubli sur une commande, bien qu’ils aient rapidement corrigé l’addition. Le service était sympathique, mais le temps d'attente pour chaque commande était plus long que prévu. Une expérience mitigée, avec un potentiel formidable !"
+      },
+      "details": {
+        "service": 3,
+        "type_de_repas": "Dîner",
+        "prix_par_personne": "400–450 AED",
+        "cuisine": 4,
+        "ambiance": 3,
+        "plats_recommandés": "Grilled Chicken, Mixed Grill, Hummus Plate"
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 14 heures",
+        "iso_date": "2024-12-24T16:49:27Z",
+        "iso_date_of_last_edit": "2024-12-24T16:49:27Z",
+        "snippet": "Hi Wadhha, We apologize for the inconvenience you experienced during your visit. Providing a positive experience for our guests is important to us, and we're disappointed to hear that we missed the mark. Please know that we take your feedback seriously and will address the issues you've raised. Could you please email us at info@allobeirutstreetfood.com so we can discuss your experience further?",
+        "extracted_snippet": {
+          "original": "Hi Wadhha, We apologize for the inconvenience you experienced during your visit. Providing a positive experience for our guests is important to us, and we're disappointed to hear that we missed the mark. Please know that we take your feedback seriously and will address the issues you've raised. Could you please email us at info@allobeirutstreetfood.com so we can discuss your experience further?",
+          "translated": "Bonjour Wadhha, Nous nous excusons pour les désagréments que vous avez rencontrés lors de votre visite. Offrir une expérience positive à nos clients est important pour nous et nous sommes déçus d'apprendre que nous avons raté le but. Sachez que nous prenons vos commentaires au sérieux et que nous répondrons aux problèmes que vous avez soulevés. Pourriez-vous s'il vous plaît nous envoyer un e-mail à info@allobeirutstreetfood.com afin que nous puissions discuter davantage de votre expérience ?"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2azRiaU1nEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDvk4biMg%7CCgwIvd6muwYQ-Kv90gI%7C?hl=fr",
+      "rating": 4,
+      "date": "il y a un jour",
+      "iso_date": "2024-12-23T18:43:09Z",
+      "iso_date_of_last_edit": "2024-12-23T18:43:09Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2azRiaU1nEAE",
+      "user": {
+        "name": "Mais Jallol",
+        "link": "https://www.google.com/maps/contrib/116327959353242846510?hl=fr",
+        "contributor_id": "116327959353242846510",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVr4Xmuog3aO6-pYB7wfhaB55tWloPqTXV14RtanCLg6eDFIBk=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Modestus is an outstanding team member who consistently delivers top-quality service. He is professional, friendly, and has an incredible ability to make every guest feel welcome. His positive attitude truly enhance the atmosphere of the restaurant. Thank you, Modestus, for your hard work and for always giving your best!",
+      "extracted_snippet": {
+        "original": "Modestus is an outstanding team member who consistently delivers top-quality service. He is professional, friendly, and has an incredible ability to make every guest feel welcome. His positive attitude truly enhance the atmosphere of the restaurant. Thank you, Modestus, for your hard work and for always giving your best!",
+        "translated": "Modestus est un membre exceptionnel de l’équipe qui fournit constamment un service de qualité supérieure. Il est professionnel, sympathique et possède une incroyable capacité à faire en sorte que chaque client se sente le bienvenu. Son attitude positive améliore véritablement l'atmosphère du restaurant. Merci, Modestus, pour votre travail acharné et pour toujours donner le meilleur de vous-même !"
+      },
+      "details": {
+        "cuisine": 4,
+        "service": 5,
+        "ambiance": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 14 heures",
+        "iso_date": "2024-12-24T16:34:14Z",
+        "iso_date_of_last_edit": "2024-12-24T16:34:14Z",
+        "snippet": "Hello Mais, Your feedback means the world to us! We're thrilled that you enjoyed your visit and appreciate you taking the time to share your experience. Ahla w sahla :)",
+        "extracted_snippet": {
+          "original": "Hello Mais, Your feedback means the world to us! We're thrilled that you enjoyed your visit and appreciate you taking the time to share your experience. Ahla w sahla :)",
+          "translated": "Bonjour Mais, Vos commentaires comptent pour nous ! Nous sommes ravis que vous ayez apprécié votre visite et apprécions que vous ayez pris le temps de partager votre expérience. Ahla w sahla :)"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2azdyS0VnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDvk7rKEg%7CCgwI3t2muwYQwJfBvAI%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a un jour",
+      "iso_date": "2024-12-23T18:41:34Z",
+      "iso_date_of_last_edit": "2024-12-23T18:41:34Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2azdyS0VnEAE",
+      "user": {
+        "name": "Majd Alraii",
+        "link": "https://www.google.com/maps/contrib/105225702641603707731?hl=fr",
+        "contributor_id": "105225702641603707731",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXplGj6Eti0St7lBSqABMXHkq_-oc10g6w_s762KPxg48MVrPY=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Modestus thank you , helpful and kind with a beautiful smile",
+      "extracted_snippet": {
+        "original": "Modestus thank you , helpful and kind with a beautiful smile",
+        "translated": "Merci Modestus, serviable et gentil avec un beau sourire"
+      },
+      "details": {
+        "service": 5,
+        "type_de_repas": "Dîner",
+        "cuisine": 5,
+        "ambiance": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 14 heures",
+        "iso_date": "2024-12-24T16:33:57Z",
+        "iso_date_of_last_edit": "2024-12-24T16:33:57Z",
+        "snippet": "Hi Majd, that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+        "extracted_snippet": {
+          "original": "Hi Majd, that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+          "translated": "Salut Majd, c'est merveilleux à entendre, merci beaucoup de nous avoir laissé un avis, Sharaftona ! :)"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2NDcyckJREAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDv472rBQ%7CCgwI4r-muwYQ6NmY2AI%7C?hl=fr",
+      "rating": 4,
+      "date": "il y a un jour",
+      "iso_date": "2024-12-23T17:37:38Z",
+      "iso_date_of_last_edit": "2024-12-23T17:37:38Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NDcyckJREAE",
+      "user": {
+        "name": "Niranjan Shenolikar",
+        "link": "https://www.google.com/maps/contrib/113462354201263340867?hl=fr",
+        "contributor_id": "113462354201263340867",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWlzZR_4V6DQXByKj9lhbvb6YPZCU5Ch7PyPQvyrjjXqUeGXoAm=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 0
+      },
+      "details": {
+        "cuisine": 5,
+        "service": 4,
+        "ambiance": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 14 heures",
+        "iso_date": "2024-12-24T16:33:45Z",
+        "iso_date_of_last_edit": "2024-12-24T16:33:45Z",
+        "snippet": "Thank you for the rating Niranjan , sharaftona ;) we hope to see you again   ",
+        "extracted_snippet": {
+          "original": "Thank you for the rating Niranjan , sharaftona ;) we hope to see you again   ",
+          "translated": "Merci pour l'évaluation Niranjan, sharaftona ;) nous espérons vous revoir   "
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2X2UtT3hnRRAB!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDv_e-OxgE%7CCgwI4IKluwYQqLqmxQE%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a un jour",
+      "iso_date": "2024-12-23T10:54:24Z",
+      "iso_date_of_last_edit": "2024-12-23T10:54:24Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2X2UtT3hnRRAB",
+      "user": {
+        "name": "Khalid Alazani",
+        "link": "https://www.google.com/maps/contrib/107010088398686279225?hl=fr",
+        "contributor_id": "107010088398686279225",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJAAp6d3XWbiC08ZZLgi9rqOq2nHfTVRhLCCKzPWSpsAtuO4g=s120-c-rp-mo-ba3-br100",
+        "local_guide": true,
+        "reviews": 55,
+        "photos": 0
+      },
+      "details": {
+        "service": 4,
+        "type_de_repas": "Dîner",
+        "cuisine": 5,
+        "ambiance": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a un jour",
+        "iso_date": "2024-12-23T13:02:30Z",
+        "iso_date_of_last_edit": "2024-12-23T13:02:30Z",
+        "snippet": "Thank you for the rating Khalid , Sharaftona ;) We look forward to welcoming you back soon!",
+        "extracted_snippet": {
+          "original": "Thank you for the rating Khalid , Sharaftona ;) We look forward to welcoming you back soon!",
+          "translated": "Merci pour l'évaluation Khalid , Sharaftona ;) Au plaisir de vous accueillir bientôt !"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2X2ZmTmZBEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDv_ffNfA%7CCgsIpIGluwYQoPb0Iw%7C?hl=fr",
+      "rating": 4,
+      "date": "il y a un jour",
+      "iso_date": "2024-12-23T10:51:16Z",
+      "iso_date_of_last_edit": "2024-12-23T10:51:16Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2X2ZmTmZBEAE",
+      "user": {
+        "name": "Brinda Mistry",
+        "link": "https://www.google.com/maps/contrib/113755309538925854220?hl=fr",
+        "contributor_id": "113755309538925854220",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUgfAX7bZByqcN_eSNDuc2zy4yHCFx7M4UDt_3CNJo6SW5QlT_CDA=s120-c-rp-mo-ba4-br100",
+        "local_guide": true,
+        "reviews": 83,
+        "photos": 343
+      },
+      "snippet": "Love the food.\nGood service even at busy times.",
+      "extracted_snippet": {
+        "original": "Love the food.\nGood service even at busy times.",
+        "translated": "J'adore la nourriture.\nBon service même aux heures de pointe."
+      },
+      "details": {
+        "service": 4,
+        "type_de_repas": "Dîner",
+        "prix_par_personne": "1–50 AED",
+        "cuisine": 4,
+        "ambiance": 4,
+        "plats_recommandés": "Fattoush Salad, Falafel Plate, French Fries, Shish Tawook, Falafel Sandwich, Shawarma Platter, Hummus with Pine Nuts, Mixed Grill, Hummus Plate"
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a un jour",
+        "iso_date": "2024-12-23T13:02:15Z",
+        "iso_date_of_last_edit": "2024-12-23T13:02:15Z",
+        "snippet": "Hi Brinda, that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+        "extracted_snippet": {
+          "original": "Hi Brinda, that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+          "translated": "Salut Brinda, c'est merveilleux à entendre, merci beaucoup de nous avoir laissé un avis, Sharaftona ! :)"
+        }
+      }
+    }
+  ]
+}

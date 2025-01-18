@@ -1,0 +1,70 @@
+page_info: {
+      page_data: {
+            order: {
+                  menu_list:{
+                        menus: [
+                              {
+                                    menu: {
+                                          name: "section name",
+                                          categories: [
+                                                category: {
+                                                      items: [
+                                                            {
+                                                                  item: {
+                                                                       "name": "name of the dish",
+                                                                        "desc": "desc",
+                                                                        "default_price": "selling price",
+                                                                        "display_price": " discounted price ", 
+                                                                        "item_state": "availablity ",
+                                                                        "item_image_url": "image url",
+                                                                        "info_tags": [
+                                                                              {
+                                                                              "title": //the fist object
+                                                                              {
+                                                                                    "text": "portion size"
+                                                                              }
+                                                                        },
+                                                                        {
+                                                                              "title": //the second object {
+                                                                                    "text" : "preparing time"
+                                                                              }
+                                                                        }
+                                                                        ]
+                                                                        "tag-slugs": [
+                                                                              "veg" //type of food if its veg or non veg
+                                                                        ]
+
+                                                                  }
+                                                            }, .... // some more other items in the menu 
+                                                      ]
+                                                }
+                                          ]
+                                    }
+                              } ... some other more dishes in the menu
+                        ]
+                  }
+            }
+      }
+}
+
+
+
+make it more simpler like this: 
+
+      menu : [
+            {
+                  section: section name,
+                  items: [
+                        {
+                              name: dish name,
+                              description: dish description,
+                              price: dish price,
+                              type: veg or non veg,
+                              imageUrl: image url,
+                              serves: portion size or serves,
+                              preparing_time: time to prepare the dish,
+                              status: item_state or availablity
+                        }
+                  ]  
+            }
+      ]

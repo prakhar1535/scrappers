@@ -1,0 +1,276 @@
+[
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYcU5XOWFBEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDXqNW9aA%7CCgwI3pvkuAYQ6PmE6QI%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a 2 mois",
+    "iso_date": "2024-10-23T14:53:18Z",
+    "iso_date_of_last_edit": "2024-10-23T14:53:18Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYcU5XOWFBEAE",
+    "user": {
+      "name": "EVA ARS",
+      "link": "https://www.google.com/maps/contrib/104086467243950105371?hl=fr",
+      "contributor_id": "104086467243950105371",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWY6p3VNiNj-ofSnIjHfDJXPJISaDn5utAOkDCrAN1Aiq2thHtN=s120-c-rp-mo-br100",
+      "reviews": 9,
+      "photos": 0
+    },
+    "snippet": "Resto délicieux et services au top avec Ismaël  qui est sympathique et parle plusieurs langues !",
+    "extracted_snippet": {
+      "original": "Resto délicieux et services au top avec Ismaël  qui est sympathique et parle plusieurs langues !"
+    },
+    "details": {
+      "service": 5,
+      "type_de_repas": "Dîner",
+      "cuisine": 5,
+      "ambiance": 4
+    },
+    "likes": 0,
+    "response": {
+      "date": "il y a 2 mois",
+      "iso_date": "2024-10-24T06:19:35Z",
+      "iso_date_of_last_edit": "2024-10-24T06:19:35Z",
+      "snippet": "Sahten Eva;) glad to learn your experience was a positive one. Have a great day!",
+      "extracted_snippet": {
+        "original": "Sahten Eva;) glad to learn your experience was a positive one. Have a great day!",
+        "translated": "Sahten Eva ;) heureux d'apprendre que votre expérience a été positive. Passe une bonne journée!"
+      }
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzb01fX2JnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIC3oM__bg%7CCgwI1PmUuQYQyOuMogE%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a un mois",
+    "iso_date": "2024-11-01T20:40:52Z",
+    "iso_date_of_last_edit": "2024-11-01T20:40:52Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzb01fX2JnEAE",
+    "user": {
+      "name": "Téha Zand",
+      "link": "https://www.google.com/maps/contrib/111435177873298952129?hl=fr",
+      "contributor_id": "111435177873298952129",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK8ZBnBTVyAUusarzSeYYvqUg5T3ut-yOOQa5QkZ3csTWnx8WA=s120-c-rp-mo-ba3-br100",
+      "local_guide": true,
+      "reviews": 52,
+      "photos": 11
+    },
+    "snippet": "Très bon shawarma et merci à Adel pour le service de qualité!",
+    "extracted_snippet": {
+      "original": "Très bon shawarma et merci à Adel pour le service de qualité!"
+    },
+    "details": {
+      "service": 5,
+      "type_de_repas": "Dîner",
+      "prix_par_personne": "50–100 AED",
+      "cuisine": 5,
+      "ambiance": 5
+    },
+    "likes": 0,
+    "response": {
+      "date": "il y a un mois",
+      "iso_date": "2024-11-04T10:17:09Z",
+      "iso_date_of_last_edit": "2024-11-04T10:17:09Z",
+      "snippet": "Hi Téha , that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+      "extracted_snippet": {
+        "original": "Hi Téha , that’s wonderful to hear, thank you so much for leaving us a review, Sharaftona! :)",
+        "translated": "Salut Téha, c'est merveilleux à entendre, merci beaucoup de nous avoir laissé un avis, Sharaftona ! :)"
+      }
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPbVB1RVFREAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgICOmPuEQQ%7CCgwI2rXalAYQ2PjlzgI%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a 2 ans",
+    "iso_date": "2022-05-31T21:19:10Z",
+    "iso_date_of_last_edit": "2022-05-31T22:46:50Z",
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipNITflTps69gV6qhCk2TOLspKgnAPC2M3paM_kc=w150-h150-k-no-p"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbVB1RVFREAE",
+    "user": {
+      "name": "omag oliv",
+      "link": "https://www.google.com/maps/contrib/105315818274576905761?hl=fr",
+      "contributor_id": "105315818274576905761",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLR_U3gxo_cOi0coelpBi1SHNEoWqmGEvftcPd3xL7SFqPk3A=s120-c-rp-mo-br100",
+      "reviews": 14,
+      "photos": 24
+    },
+    "snippet": "Un must, le chawarma chicken platter. généreux, sauce à l'ail excellente, frites croustillantes et bien servi ! Comparé à d'autres restaurants libanais de Dubaï, celui-ci se détache pour la fraîcheur de la nourriture et sa terrasse bien agréable. J'y retourne chaque fois que je suis à Dubaï",
+    "extracted_snippet": {
+      "original": "Un must, le chawarma chicken platter. généreux, sauce à l'ail excellente, frites croustillantes et bien servi ! Comparé à d'autres restaurants libanais de Dubaï, celui-ci se détache pour la fraîcheur de la nourriture et sa terrasse bien agréable. J'y retourne chaque fois que je suis à Dubaï"
+    },
+    "likes": 1
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNodDRUNmN3EAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgICht4T6cw%7CCgwIvOyBoAYQkM_UygM%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a un an",
+    "iso_date": "2023-02-24T15:43:35Z",
+    "iso_date_of_last_edit": "2023-03-02T10:11:08Z",
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipM4-XrNWkxU9zoZLNbA66d7v37JucdaZad9hWny=w150-h150-k-no-p"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodDRUNmN3EAE",
+    "user": {
+      "name": "Gilles GLEYEN (“GilH94”)",
+      "link": "https://www.google.com/maps/contrib/103461767352761587795?hl=fr",
+      "contributor_id": "103461767352761587795",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVQiR24F1HHEJMvJ8ngCGdP8XQ6MFlQX-rvFc8AA3Cr4Abazaxr=s120-c-rp-mo-ba6-br100",
+      "local_guide": true,
+      "reviews": 543,
+      "photos": 618
+    },
+    "snippet": "Très bon libanais.\nUne réf a Dubaï, que du très BON.Nous nous sommes régalé. Le service et discret & Pro. Si vous avez un creux dans le coin, je vous recommande sans nul doute de faire le test",
+    "extracted_snippet": {
+      "original": "Très bon libanais.\nUne réf a Dubaï, que du très BON.Nous nous sommes régalé. Le service et discret & Pro. Si vous avez un creux dans le coin, je vous recommande sans nul doute de faire le test"
+    },
+    "details": {
+      "cuisine": 5,
+      "service": 5,
+      "ambiance": 4
+    },
+    "likes": 1,
+    "response": {
+      "date": "il y a un an",
+      "iso_date": "2023-03-01T08:07:19Z",
+      "iso_date_of_last_edit": "2023-03-01T08:07:19Z",
+      "snippet": "Hi Gil, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)",
+      "extracted_snippet": {
+        "original": "Hi Gil, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)",
+        "translated": "Salut Gil, Nous apprécions vraiment que vous ayez pris le temps de partager vos commentaires avec nous, nous espérons vous voir bientôt, Ahla w sahla ;)"
+      }
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuLV9tbElnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgICn-_mlIg%7CCgsIg8HqtwYQuJrmMQ%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a 2 mois",
+    "iso_date": "2024-09-30T12:58:43Z",
+    "iso_date_of_last_edit": "2024-09-30T12:58:43Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLV9tbElnEAE",
+    "user": {
+      "name": "Mohamed Zawjal",
+      "link": "https://www.google.com/maps/contrib/101107066360731205920?hl=fr",
+      "contributor_id": "101107066360731205920",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU5i9-x400SP6N88I9tT5hjVjYExGXTbfeFcLEBP62MF4MNYec=s120-c-rp-mo-br100",
+      "reviews": 4,
+      "photos": 0
+    },
+    "snippet": "tres bon plats- tres bon service- un grand merci a mr omar👍",
+    "extracted_snippet": {
+      "original": "tres bon plats- tres bon service- un grand merci a mr omar👍"
+    },
+    "details": {
+      "cuisine": 5,
+      "service": 5,
+      "ambiance": 5
+    },
+    "likes": 0,
+    "response": {
+      "date": "il y a 2 mois",
+      "iso_date": "2024-09-30T14:41:14Z",
+      "iso_date_of_last_edit": "2024-09-30T14:41:14Z",
+      "snippet": "Hi Mohamed, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)",
+      "extracted_snippet": {
+        "original": "Hi Mohamed, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)",
+        "translated": "Bonjour Mohamed, Nous apprécions vraiment que vous ayez pris le temps de partager votre retour avec nous, nous espérons vous voir bientôt, Ahla w sahla ;)"
+      }
+    }
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkdmFUNkVnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIDdvaT6Eg%7CCgsIorDyrgYQoJWbBg%7C?hl=fr",
+    "rating": 1,
+    "date": "il y a 9 mois",
+    "iso_date": "2024-02-26T13:54:42Z",
+    "iso_date_of_last_edit": "2024-02-26T13:54:42Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkdmFUNkVnEAE",
+    "user": {
+      "name": "Nouhayla S",
+      "link": "https://www.google.com/maps/contrib/111636552247065366836?hl=fr",
+      "contributor_id": "111636552247065366836",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUo4l1wBJLie95nIXjdjK9fvnG-tjsG7nBqe9dJdXBEEquJF565=s120-c-rp-mo-ba3-br100",
+      "local_guide": true,
+      "reviews": 40,
+      "photos": 18
+    },
+    "snippet": "Si je pouvais mettre 0 je mettrai il faut arrêter de mentir la bouffe est dégueulasse c’est pas bon + quand on voulait s’asseoir on nous dit ok et le serveur nous dit non + le serveur ne pose pas les plats sur la table tu dois prendre avec tes mains et franchement la bouffe est pas bonne du tout du tout du tout franchement n’y allez pas",
+    "extracted_snippet": {
+      "original": "Si je pouvais mettre 0 je mettrai il faut arrêter de mentir la bouffe est dégueulasse c’est pas bon + quand on voulait s’asseoir on nous dit ok et le serveur nous dit non + le serveur ne pose pas les plats sur la table tu dois prendre avec tes mains et franchement la bouffe est pas bonne du tout du tout du tout franchement n’y allez pas"
+    },
+    "details": {
+      "cuisine": 1,
+      "service": 1,
+      "ambiance": 3
+    },
+    "likes": 0
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5NU9qZDlBRRAB!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgIC95Ojd9AE%7CCgwIu7qMrwYQuNyVkgM%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a 9 mois",
+    "iso_date": "2024-03-02T12:36:11Z",
+    "iso_date_of_last_edit": "2024-03-02T12:36:11Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5NU9qZDlBRRAB",
+    "user": {
+      "name": "Yasmine Tazi",
+      "link": "https://www.google.com/maps/contrib/116729845208909465442?hl=fr",
+      "contributor_id": "116729845208909465442",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJAXEu35Ql6CSJ8LnxeTdSXlp-fkpIuNNdmAb6aXgXgzDFizQ=s120-c-rp-mo-br100",
+      "reviews": 5,
+      "photos": 0
+    },
+    "snippet": "Les plats sont très bon et le service parfait\nSpécialement notre serveur Rami qui a été au petit soin",
+    "extracted_snippet": {
+      "original": "Les plats sont très bon et le service parfait\nSpécialement notre serveur Rami qui a été au petit soin"
+    },
+    "details": {
+      "service": 5,
+      "type_de_repas": "Déjeuner",
+      "cuisine": 5,
+      "ambiance": 5
+    },
+    "likes": 0
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNiMzd2QmFnEAE!2m1!1s0x0:0xf0e53853983acfbe!3m1!1s2@1:CIHM0ogKEICAgICb37vBag%7CCgsIgpiptQYQ-MjgGQ%7C?hl=fr",
+    "rating": 5,
+    "date": "il y a 4 mois",
+    "iso_date": "2024-07-31T14:36:50Z",
+    "iso_date_of_last_edit": "2024-07-31T14:36:50Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiMzd2QmFnEAE",
+    "user": {
+      "name": "Jawad Elbasraoui",
+      "link": "https://www.google.com/maps/contrib/103254360005870800771?hl=fr",
+      "contributor_id": "103254360005870800771",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKggId5-VsU0yVn8_cxHSgk6u2PZBikYVjOuyxuUMaN16ICcQ=s120-c-rp-mo-br100",
+      "reviews": 1,
+      "photos": 0
+    },
+    "snippet": "Très bien , merci Ali always smiling",
+    "extracted_snippet": {
+      "original": "Très bien , merci Ali always smiling"
+    },
+    "details": {
+      "service": 5,
+      "cuisine": 5,
+      "ambiance": 5
+    },
+    "likes": 0,
+    "response": {
+      "date": "il y a 4 mois",
+      "iso_date": "2024-08-01T04:40:02Z",
+      "iso_date_of_last_edit": "2024-08-01T04:40:02Z",
+      "snippet": "Hi Jawad, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)\n",
+      "extracted_snippet": {
+        "original": "Hi Jawad, We really appreciate you taking the time to share your feedback with us, we hope to see you soon, Ahla w sahla ;)\n",
+        "translated": "Bonjour Jawad, Nous apprécions vraiment que vous ayez pris le temps de partager vos commentaires avec nous, nous espérons vous voir bientôt, Ahla w sahla ;)\n"
+      }
+    }
+  }
+]
