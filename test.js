@@ -19,7 +19,8 @@ const transformMenuData = (response) => {
           name: item.name,
           description: item.desc,
           price: item.display_price || item.default_price || item.price,
-          type: item["tag-slugs"]?.[0] || "unknown",
+          // Fix: Changed from tag-slugs to tag_slugs
+          type: item.tag_slugs?.[0] || "unknown",
           imageUrl: item.item_image_url,
           serves: item.info_tags?.[0]?.title?.text || "Not specified",
           preparing_time: item.info_tags?.[1]?.title?.text || "Not specified",
