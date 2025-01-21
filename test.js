@@ -1,9 +1,15 @@
 const express = require("express");
 const axios = require("axios");
 const https = require("https");
-
+const { createClient } = require("@supabase/supabase-js");
+const { configDotenv } = require("dotenv");
 const app = express();
 const PORT = 3000;
+
+configDotenv();
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_ANON_KEY;
+const supabase = createClient(supabaseUrl, supabaseKey);
 
 app.use(express.json());
 
@@ -19,7 +25,6 @@ const transformMenuData = (response) => {
           name: item.name,
           description: item.desc,
           price: item.display_price || item.default_price || item.price,
-          // Fix: Changed from tag-slugs to tag_slugs
           type: item.tag_slugs?.[0] || "unknown",
           imageUrl: item.item_image_url,
           serves: item.info_tags?.[0]?.title?.text || "Not specified",
@@ -39,6 +44,27 @@ const fetchWithRetry = async (url, options, retries = 3) => {
       if (i === retries - 1) throw error;
       console.warn(`Retrying... (${i + 1})`);
     }
+  }
+};
+
+const saveMenuToSupabase = async (subdomain, menuData) => {
+  const timestamp = new Date().toISOString();
+
+  try {
+    const { error } = await supabase.from("menus").insert({
+      subdomain,
+      menu_data: menuData,
+      created_at: timestamp,
+      updated_at: timestamp,
+    });
+
+    if (error) {
+      console.error("Error inserting menu data:", error);
+      throw error;
+    }
+  } catch (error) {
+    console.error("Error saving menu data:", error);
+    throw error;
   }
 };
 
@@ -71,6 +97,9 @@ app.post("/menu", async (req, res) => {
     );
 
     const structuredData = transformMenuData(apiResponse.data);
+
+    // Save to Supabase
+    await saveMenuToSupabase(subDomain, structuredData);
 
     res.json({
       success: true,
