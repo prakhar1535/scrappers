@@ -47,7 +47,13 @@ const fetchWithRetry = async (url, options, retries = 3) => {
   }
 };
 
-const saveMenuToSupabase = async (subdomain, menuData) => {
+const saveMenuToSupabase = async (
+  subdomain,
+  menuData,
+  RestaurantName,
+  RestaurantDescription,
+  HeaderImage
+) => {
   const timestamp = new Date().toISOString();
 
   try {
@@ -56,6 +62,9 @@ const saveMenuToSupabase = async (subdomain, menuData) => {
       menu_data: menuData,
       created_at: timestamp,
       updated_at: timestamp,
+      name: RestaurantName,
+      description: RestaurantDescription,
+      headerImage: HeaderImage,
     });
 
     if (error) {
@@ -70,7 +79,7 @@ const saveMenuToSupabase = async (subdomain, menuData) => {
 
 app.post("/menu", async (req, res) => {
   try {
-    const { subDomain } = req.body;
+    const { subDomain, name, description, headerImage } = req.body;
 
     if (!subDomain) {
       return res.status(400).json({
@@ -99,11 +108,22 @@ app.post("/menu", async (req, res) => {
     const structuredData = transformMenuData(apiResponse.data);
 
     // Save to Supabase
-    await saveMenuToSupabase(subDomain, structuredData);
+    await saveMenuToSupabase(
+      subDomain,
+      structuredData,
+      name,
+      description,
+      headerImage
+    );
 
     res.json({
       success: true,
-      data: structuredData,
+      menu_data: structuredData,
+      restaurant_data: {
+        name,
+        headerImage,
+        description,
+      },
     });
   } catch (error) {
     console.error("Error fetching menu data:", error.message);
